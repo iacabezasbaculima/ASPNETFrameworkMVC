@@ -1,2 +1,5 @@
-# ASPNFMVC
-Simple demos used to teach myself how to create web apps in ASP.NET
+# ASP.NET Framework MVC Demos
+
+*Simple demos created to teach myself web app development in ASP.NET MVC*
+
+**This repository contains the full VS solution of all demos.**
