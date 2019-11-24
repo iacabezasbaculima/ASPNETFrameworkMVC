@@ -1,0 +1,10 @@
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.sqlprojAssemblyReference.cache
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\Model.xml
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\refactor.xml
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\postdeploy.sql
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\predeploy.sql
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.pdb

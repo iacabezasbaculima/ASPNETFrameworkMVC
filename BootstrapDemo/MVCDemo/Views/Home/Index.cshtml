@@ -1,0 +1,114 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@*Alert Section*@
+<br/> @*move alert down*@
+<div class="alert alert-danger" role="alert">
+    <button type="button" class="close" data-dismiss="alert">
+        x
+    </button>
+    The server is currently down for maintenance.
+</div>
+
+<div class="jumbotron">
+    <h1>Isaac 's Bootstrap Demo</h1>
+    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p>
+        <a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a>
+        @*visible-lg: button is only visible in large screen size
+          visible-md: button only visible in medium screen size 
+          ... 
+          hidden-lg: only hide elements in large screen size
+          visible and hidden classes can be stacked*@
+        <button class="btn btn-success btn-lg pull-right visible-lg">Large Layout</button>
+        <button class="btn btn-warning btn-lg pull-right visible-md">Medium Layout</button>
+        <button class="btn btn-danger btn-lg pull-right visible-sm">Small Layout</button>
+        <button class="btn btn-default btn-lg pull-right visible-xs">ExtraSmall Layout</button>
+    </p>
+</div>
+@**Grid: 12 columns. Div is a section in html. Class is a style for the object (div).*@
+<div class="row">
+    @*md: medium treshold before update columns when page gets smalled.*@
+    <div class="col-md-3">
+        <h2>Getting started</h2>
+        <p>
+            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            enables a clean separation of concerns and gives you full control over markup
+            for enjoyable, agile development.
+        </p>
+        <p><a class="btn btn-success btn-lg" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h2>Get more libraries</h2>
+        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+        <p><a class="btn btn-info btn-sm" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h2>Web Hosting</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-primary btn-xs" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h2>Isaac's column</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-warning" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+</div>
+@*Another section*@
+<div class="row">
+    <div class="col-md-12">
+        <blockquote>
+            <p> The best way to learn C# is to practice building projects! </p>
+            <footer> Isaac Cabezas</footer>
+        </blockquote>
+    </div>
+</div>   
+<div class="row">
+    <div class="col-md-12">
+        @*table is a class taken from Bootstrap, formats everything into a nice simple bordered table
+           table should be used only for data.
+           css is not reusable, avoid using inline css code.*@
+        <table class="table table-bordered table-striped table-hover">
+            <thead>
+                <tr class="success">
+                    <th>Icon</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Email Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><i class="far fa-address-card"></i></td>
+                    <td>Claude</td>
+                    <td>Shanon</td>
+                    <td class="text-primary">cshanon@gmail.com</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td><i class="fab fa-aws"></i></td>
+                    <td>Sarah</td>
+                    <td>Connor</td>
+                    <td class="text-primary">sconnor@gmail.com</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td><i class="fab fa-android"></i></td>
+                    <td>Jean Claude</td>
+                    <td>Van Damme</td>
+                    <td class="text-primary">jcvd@gmail.com</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td><i class="fas fa-fighter-jet"></i></td>
+                    <td>Donald</td>
+                    <td>Trump</td>
+                    <td class="text-primary">trump@gmail.com</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

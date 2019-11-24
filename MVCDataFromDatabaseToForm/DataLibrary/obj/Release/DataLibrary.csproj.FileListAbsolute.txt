@@ -1,0 +1,7 @@
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\bin\Release\DataLibrary.dll
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\bin\Release\DataLibrary.pdb
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\bin\Release\Dapper.dll
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\bin\Release\Dapper.xml
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\obj\Release\DataLibrary.csproj.CopyComplete
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\obj\Release\DataLibrary.dll
+A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\obj\Release\DataLibrary.pdb
