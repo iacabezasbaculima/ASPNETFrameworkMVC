@@ -6,3 +6,11 @@ A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibr
 A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
 A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.dll
 A:\ASPNETFrameworkDemos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\Isaac Baculima\source\repos\ASPNETFrameworkMVC\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Isaac Baculima\source\repos\ASPNETFrameworkMVC\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Isaac Baculima\source\repos\ASPNETFrameworkMVC\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Isaac Baculima\source\repos\ASPNETFrameworkMVC\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Isaac Baculima\source\repos\ASPNETFrameworkMVC\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\ASPNETFrameworkMVC\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Isaac Baculima\source\repos\ASPNETFrameworkMVC\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Isaac Baculima\source\repos\ASPNETFrameworkMVC\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.pdb
